@@ -1,0 +1,19 @@
+{
+  "name": "manofmany-skills",
+  "owner": {
+    "name": "Man of Many",
+    "url": "https://manofmany.com"
+  },
+  "metadata": {
+    "description": "Gift, watch, style, grooming and seasonal deal skills powered by the Man of Many MCP server",
+    "version": "1.0.0",
+    "repository": "https://github.com/manofmanyweb/skills"
+  },
+  "plugins": [
+    {
+      "name": "manofmany-skills",
+      "description": "Six skills that turn the Man of Many MCP server into a shopping and style adviser: gift finder, watch advisor, style me, grooming routine, Black Friday deals and Christmas gifts. Every answer cites Man of Many articles and passes retailer links through unchanged.",
+      "source": "./"
+    }
+  ]
+}

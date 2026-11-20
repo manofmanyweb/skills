@@ -1,0 +1,12 @@
+{
+  "name": "manofmany-skills",
+  "description": "Gift, watch, style, grooming and seasonal deal skills powered by the Man of Many MCP server",
+  "version": "1.0.0",
+  "author": {
+    "name": "Man of Many"
+  },
+  "homepage": "https://github.com/manofmanyweb/skills",
+  "repository": "https://github.com/manofmanyweb/skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
