@@ -15,7 +15,7 @@ npx skills add manofmanyweb/skills
 ### Claude Code plugin marketplace
 
 ```
-/plugin marketplace add manofmanyweb/skills
+/plugin install manofmany --marketplace manofmanyweb/skills
 /plugin install manofmany-skills@manofmany-skills
 ```
 
