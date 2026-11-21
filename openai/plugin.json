@@ -1,0 +1,12 @@
+{
+  "name": "manofmany",
+  "version": "1.1.0",
+  "displayName": "Man of Many",
+  "description": "Men's lifestyle reviews, buyer's guides and gift ideas from Man of Many, with citations.",
+  "author": { "name": "Man of Many", "url": "https://manofmany.com" },
+  "homepage": "https://manofmany.com/mcp",
+  "privacyPolicy": "https://manofmany.com/privacy-policy",
+  "termsOfService": "https://manofmany.com/mcp#terms",
+  "support": "contact@manofmany.com",
+  "logo": "logo.png"
+}
