@@ -1,0 +1,11 @@
+{
+  "name": "manofmany",
+  "version": "1.1.0",
+  "description": "Man of Many: search men's lifestyle journalism, buyer's guides, gift ideas and deals, with citations. Free, read-only.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "manofmany": {
+      "httpUrl": "https://mcp.manofmany.com/mcp"
+    }
+  }
+}
